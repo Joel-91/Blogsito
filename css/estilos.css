@@ -4,6 +4,16 @@ body {
     background-color: rgb(141, 81, 81);
 }
 
+<<<<<<< HEAD
 h1{
     color: blue;
 }
+=======
+h3{
+    background-color: aqua;
+}
+
+.footer{
+    color: aliceblue;
+}
+>>>>>>> footer
